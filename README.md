@@ -4,15 +4,20 @@ HealMe is developed out of the collaborative spirit of invention and determinati
 It comes with following features : 
 
 1. Diabetes Prediction Model 
-Made through a ML Model to predict the chance of having diabetes by giving some health parameters 
+Made through a ML Model to predict the chance of having diabetes by giving some health parameters
+
 2. Multiple Disease Predictor 
 Predicts your chance of having a potential disease from taking some symptoms from you .
+
 3.Medicine Reminder
 Reminds you to get your medicine at appropriate time (UNDER PROGRESS) 
+
 4.Health Blogs 
 User can read abundant health related articles to stay updated 
+
 5.Contact Support 
 Awesome contact support with working contact form feature 
+
 6.Book Appointment Feature 
 Directly book your appointment to your doctor (UNDER PROGRESS)
 
